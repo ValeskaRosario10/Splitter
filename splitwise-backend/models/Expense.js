@@ -1,3 +1,4 @@
+//models/exprense.js
 const mongoose = require('mongoose');
 
 // Define the Expense schema
